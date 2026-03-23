@@ -1,29 +1,25 @@
 # 🗂️ Professional File Renamer
 
 ## 📌 Description
-Professional File Renamer is a powerful tool designed to rename multiple files efficiently and systematically.  
-It helps users organize their files by applying custom naming rules in bulk, saving time and reducing manual effort.
+Professional File Renamer is a powerful tool to rename multiple files efficiently.  
+It helps users organize their files with custom naming rules, saving time and effort.
 
 ## ⚙️ Features
-- Rename multiple files at once (Batch Renaming)
-- Add prefixes and suffixes
-- Replace specific words or characters
-- Automatic numbering (1, 2, 3...)
-- Clean and user-friendly logic
-
-## 🛠️ Technologies Used
-- Python
-
-## 🚀 How to Run
-
-```bash
-python main.py
+- Batch renaming of multiple files
+- Add prefix and suffix
+- Replace text in file names
+- Automatic numbering
+- User-friendly interface
 
 ## 🖥️ Application Interface
-![Interface](Professional File Renamer.png)
+![Interface](Professional%20File%20Renamer.png)
 
 ## 📷 Original File Names
-![Before](Original File Names.png)
+![Before](Original%20File%20Names.png)
 
 ## 📷 Renamed File Names
-![After](Renamed File Names.png)
+![After](Renamed%20File%20Names.png)
+
+## 🚀 How to Run
+```bash
+python main.py
